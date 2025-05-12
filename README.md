@@ -1,4 +1,8 @@
-# React + Vite
+# Zita AI - SME Dashboard (Frontend)
+
+Zita AI is an AI-powered assistant designed to help Nigerian SMEs manage customer interactions across WhatsApp, Instagram, and Facebook Messenger, handling inquiries, orders, payments, and deliveries automatically.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
