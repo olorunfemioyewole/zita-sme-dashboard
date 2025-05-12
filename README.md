@@ -2,15 +2,43 @@
 
 Zita AI is an AI-powered assistant designed to help Nigerian SMEs manage customer interactions across WhatsApp, Instagram, and Facebook Messenger, handling inquiries, orders, payments, and deliveries automatically.
 
-## React + Vite
+This dashboard provides SMEs with an intuitive interface to manage conversations, track orders, monitor payments, and analyze performance through real-time analytics.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Real-time chat view with assistant and customer interactions  
+- 📦 Order and delivery tracking  
+- 💳 Payment monitoring and history  
+- 📊 Analytics dashboard for inquiries, orders, and payment success rates  
+- 🧾 Product catalog management  
+- ⚙️ Settings for business profile and preferences
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend UI library  
+- **Tailwind CSS** – Utility-first styling framework  
+- **Redux** – State management  
+- **Axios** – API communication  
+- **Vercel** – Hosting and CI/CD
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v16+)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/zita-ai-sme-dashboard.git
+cd zita-sme-dashboard
+npm install
