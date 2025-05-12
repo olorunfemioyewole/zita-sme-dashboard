@@ -38,7 +38,14 @@ Make sure you have the following installed:
 
 ### Installation
 
-```bash
+```
 git clone https://github.com/your-username/zita-ai-sme-dashboard.git
 cd zita-sme-dashboard
 npm install
+```
+
+### Running locally
+
+```
+npm run dev
+```
